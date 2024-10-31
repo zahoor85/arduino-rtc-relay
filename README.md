@@ -21,3 +21,13 @@ To set up this project, you will need the following components:
 - **LED** (or any other device you want to control)
 - **Jumper Wires**
 - **Breadboard** (optional)
+
+### Required Libraries
+
+Before uploading the code to your Arduino, you need to install the necessary libraries already included with this example. Follow these steps:
+
+1. **Open Arduino IDE**.
+2. Go to **Sketch** > **Include Library** > **Manage Libraries…**.
+3. Search for and install the following libraries:
+   - **Adafruit BusIO**
+   - **RTClib** (by Adafruit)
